@@ -20,19 +20,6 @@ A full-stack Next.js application for managing equipment maintenance requests wit
 - Node.js 18+ 
 - MySQL database
 
-### 3. Setup Database
-
-```bash
-# Generate Prisma Client
-npx prisma generate
-
-# Run migrations
-npx prisma migrate dev
-
-# Seed the database
-npx prisma db seed
-```
-
 ### 4. Run Development Server
 
 ```bash
