@@ -20,14 +20,6 @@ A full-stack Next.js application for managing equipment maintenance requests wit
 - Node.js 18+ 
 - MySQL database
 
-## Setup Instructions
-
-### 1. Install Dependencies
-
-```bash
-npm install
-```
-
 ### 2. Setup Environment Variables
 
 Create a `.env` file in the root directory:
