@@ -35,6 +35,8 @@ Create a `.env` file in the root directory:
 ```env
 DATABASE_URL="mysql://user:password@localhost:3306/gearguard"
 ```
+
+Replace with your MySQL connection string.
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Demo Credentials
