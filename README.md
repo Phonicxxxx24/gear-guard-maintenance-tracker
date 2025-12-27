@@ -24,6 +24,7 @@ A full-stack Next.js application for managing equipment maintenance requests wit
 
 - Email: `john@example.com`
 - Password: `password123`
+Or you can acces it with view Demo Dashboard
 
 ## Database Schema
 
