@@ -37,6 +37,19 @@ DATABASE_URL="mysql://user:password@localhost:3306/gearguard"
 ```
 
 Replace with your MySQL connection string.
+
+### 3. Setup Database
+
+```bash
+# Generate Prisma Client
+npx prisma generate
+
+# Run migrations
+npx prisma migrate dev
+
+# Seed the database
+npx prisma db seed
+```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Demo Credentials
