@@ -28,7 +28,13 @@ A full-stack Next.js application for managing equipment maintenance requests wit
 npm install
 ```
 
+### 2. Setup Environment Variables
 
+Create a `.env` file in the root directory:
+
+```env
+DATABASE_URL="mysql://user:password@localhost:3306/gearguard"
+```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Demo Credentials
