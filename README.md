@@ -1,8 +1,5 @@
 # GearGuard - Maintenance Tracker
 
-Hosted link:
-https://v0-gear-guard-maintenance-tracker-bay.vercel.app/
-
 A full-stack Next.js application for managing equipment maintenance requests with MySQL database.
 
 ## Features
